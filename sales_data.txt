@@ -1,0 +1,61 @@
+id	product	category	customer	sale_date	amount
+8	Mouse	Electronics	Charlie Davis	2025-11-05	25.19
+9	Notebook	Stationery	Alice Johnson	2025-11-05	4.29
+10	Notebook	Stationery	Diana Prince	2025-11-05	5.00
+11	Chair	Furniture	Bob Smith	2025-11-05	120.12
+12	Notebook	Stationery	Bob Smith	2025-11-05	5.41
+13	Notebook	Stationery	Bob Smith	2025-11-05	4.34
+14	Notebook	Stationery	Carol Chen	2025-11-05	4.53
+15	Pen	Stationery	Diana Prince	2025-11-05	1.91
+16	Wireless Mouse	Electronics	Diana Prince	2025-11-05	24.02
+17	suncream	beauty	Alice Johnson	2025-11-05	489.38
+18	Mouse	Electronics	Alice Johnson	2025-11-05	23.78
+19	Coffee Mug	Kitchen	Charlie Davis	2025-11-05	10.35
+20	suncream	beauty	Bob Smith	2025-11-05	501.94
+21	Red T-Shirt	Apparel	Alice Johnson	2025-11-05	20.54
+22	suncream	beauty	Carol Chen	2025-11-05	541.61
+23	Blue Jeans	Apparel	Bob Smith	2025-11-05	50.15
+24	Mouse	Electronics	Carol Chen	2025-11-05	27.30
+25	Pen	Stationery	Diana Prince	2025-11-05	2.00
+26	suncream	beauty	Charlie Davis	2025-11-05	460.05
+27	suncream	beauty	Diana Prince	2025-11-05	490.32
+28	Notebook	Stationery	Bob Smith	2025-11-05	4.84
+29	Chair	Furniture	Diana Prince	2025-11-05	110.41
+30	Keyboard	Electronics	Charlie Davis	2025-11-05	50.43
+31	Chair	Furniture	Carol Chen	2025-11-05	119.27
+32	Laptop	Electronics	Alice Johnson	2025-11-05	884.98
+33	Keyboard	Electronics	Alice Johnson	2025-11-05	49.86
+34	Laptop	Electronics	Alice Johnson	2025-11-05	843.93
+35	Coffee Mug	Kitchen	Charlie Davis	2025-11-05	9.41
+36	Keyboard	Electronics	Diana Prince	2025-11-05	51.20
+37	Desk	Furniture	Alice Johnson	2025-11-05	248.33
+38	Red T-Shirt	Apparel	Bob Smith	2025-11-05	21.63
+39	Blue Jeans	Apparel	Charlie Davis	2025-11-05	53.21
+40	Desk	Furniture	Carol Chen	2025-11-05	247.90
+41	Mouse	Electronics	Diana Prince	2025-11-05	24.63
+42	Notebook	Stationery	Charlie Davis	2025-11-05	4.87
+43	Keyboard	Electronics	Charlie Davis	2025-11-05	50.79
+44	Red T-Shirt	Apparel	Diana Prince	2025-11-05	18.81
+45	Laptop	Electronics	Charlie Davis	2025-11-05	926.68
+46	Desk	Furniture	Charlie Davis	2025-11-05	228.07
+47	Mouse	Electronics	Carol Chen	2025-11-05	24.81
+48	Blue Jeans	Apparel	Charlie Davis	2025-11-05	54.69
+49	Keyboard	Electronics	Charlie Davis	2025-11-05	45.50
+50	Notebook	Stationery	Alice Johnson	2025-11-05	4.85
+51	Mouse	Electronics	Bob Smith	2025-11-05	23.97
+52	Wireless Mouse	Electronics	Carol Chen	2025-11-05	23.55
+53	Laptop	Electronics	Bob Smith	2025-11-05	891.79
+54	Mouse	Electronics	Alice Johnson	2025-11-05	22.92
+55	Wireless Mouse	Electronics	Charlie Davis	2025-11-05	24.47
+56	Desk	Furniture	Diana Prince	2025-11-05	246.84
+57	Keyboard	Electronics	Alice Johnson	2025-11-05	46.42
+58	Mouse	Electronics	Charlie Davis	2025-11-05	25.07
+59	Pen	Stationery	Diana Prince	2025-11-05	2.19
+60	Keyboard	Electronics	Carol Chen	2025-11-05	51.20
+61	Red T-Shirt	Apparel	Carol Chen	2025-11-05	21.71
+62	Pen	Stationery	Diana Prince	2025-11-05	1.88
+63	Wireless Mouse	Electronics	Charlie Davis	2025-11-05	25.53
+64	Laptop	Electronics	Charlie Davis	2025-11-05	866.44
+65	Desk	Furniture	Carol Chen	2025-11-05	233.20
+66	Keyboard	Electronics	Carol Chen	2025-11-05	45.22
+67	Keyboard	Electronics	Charlie Davis	2025-11-05	47.95
